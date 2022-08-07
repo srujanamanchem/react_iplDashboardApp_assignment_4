@@ -1,1 +1,25 @@
-/* Write your CSS here */
+.team-match-card {
+  list-style-type: none;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  font-family: 'bree serif';
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100px;
+  width: 230px;
+  margin: 10px;
+}
+.team-image {
+  width: 52px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.team-heading {
+  width: 60%;
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
