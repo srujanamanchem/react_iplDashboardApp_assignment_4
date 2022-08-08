@@ -1,1 +1,33 @@
-/* Write your CSS here */
+.latest-match-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Bree Serif';
+  padding: 30px;
+}
+.team-details {
+  width: 30%;
+}
+.team-name {
+  font-size: 28px;
+}
+.date {
+  font-size: 22px;
+}
+.match-details {
+  font-size: 16px;
+}
+.team-logo {
+  width: 200px;
+}
+.innings-heading {
+  font-size: 16px;
+  text-align: right;
+}
+.innings {
+  font-size: 14px;
+  text-align: right;
+}
